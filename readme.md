@@ -14,8 +14,7 @@ npm i
 npm run start
 ```
 
-There are 5 environment variables, please fill the .env file for your purpose
-
+There are 5 environment variables, please , read the documentation
 ## Environment variable
 
  - USERNAME: your mail address or phone number of your linkedin account
