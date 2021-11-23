@@ -9,7 +9,7 @@ Use at your own risk
 # How to use
 
 ```
-git clone ...
+git clone https://github.com/Pilou97/linkedin-auto-liker
 npm i
 npm run start
 ```
